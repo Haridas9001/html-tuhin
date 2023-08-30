@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+#tuhin > p {
+    color: white;
+    font-size: 3rem;
+}
+#tuhin img {
+    border: 10px solid gold;
+    border-radius: 50%;
+
+}
+.box {
+    color: white;
+}
+.box > a {
+    color: gold;
+    text-decoration: none;
+}
+
